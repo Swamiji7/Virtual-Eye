@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

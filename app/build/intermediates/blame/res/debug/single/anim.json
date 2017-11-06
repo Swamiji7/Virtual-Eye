@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/anim/abc_popup_exit.xml"
+    }
+]

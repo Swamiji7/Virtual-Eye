@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:10:22-64
+application
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:12:5-34:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/nitheesh/.android/build-cache/46c9fe7802f679c9652f98b16e32d1f7dce95dfa/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/nitheesh/.android/build-cache/4258d318b3ae335c9ae7a9522deb908d42c7b602/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/nitheesh/.android/build-cache/e0f147ed8c49b1f2da6f51acd4f4dd44bc508c01/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:24.2.0] /home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/nitheesh/.android/build-cache/74a626d8aaa0de22792bbc6be3216b63d4541388/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/nitheesh/.android/build-cache/8d197ef82feddb968be96b878c19ff56d798b039/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/nitheesh/.android/build-cache/10420d216020c8a50134906d6e395d4e058b49b5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/nitheesh/.android/build-cache/e8e68874fdb6c04b7aae70f4ab3df52d80374fe6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/nitheesh/.android/build-cache/1a938c8a1b7c7aaf3f3d6b4ceeaa711095843a42/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/nitheesh/.android/build-cache/4a4827f399e8f89f7c8523ba832dbbc5971bdc4c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/nitheesh/.android/build-cache/c085f80c2e64beaff28d6f5847fb4697922598ed/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/nitheesh/.android/build-cache/0eb3157235770040ea4349eefc00ccb94efdafb3/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:17:9-37
+	android:supportsRtl
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:18:9-37
+	android:hardwareAccelerated
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:15:9-43
+	android:fullBackupContent
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:14:9-42
+	android:allowBackup
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:16:9-38
+	android:theme
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:19:9-47
+meta-data#com.google.android.gms.version
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:20:9-22:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/nitheesh/.android/build-cache/e0f147ed8c49b1f2da6f51acd4f4dd44bc508c01/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:22:13-66
+	android:name
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:21:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:23:9-25:35
+	android:value
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:25:13-32
+	android:name
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:24:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:label
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:28:13-38
+	android:name
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:27:19-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/nitheesh/.android/build-cache/46c9fe7802f679c9652f98b16e32d1f7dce95dfa/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/nitheesh/.android/build-cache/4258d318b3ae335c9ae7a9522deb908d42c7b602/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/nitheesh/.android/build-cache/e0f147ed8c49b1f2da6f51acd4f4dd44bc508c01/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:24.2.0] /home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/nitheesh/.android/build-cache/74a626d8aaa0de22792bbc6be3216b63d4541388/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/nitheesh/.android/build-cache/8d197ef82feddb968be96b878c19ff56d798b039/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] /home/nitheesh/.android/build-cache/10420d216020c8a50134906d6e395d4e058b49b5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /home/nitheesh/.android/build-cache/e8e68874fdb6c04b7aae70f4ab3df52d80374fe6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/nitheesh/.android/build-cache/1a938c8a1b7c7aaf3f3d6b4ceeaa711095843a42/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/nitheesh/.android/build-cache/4a4827f399e8f89f7c8523ba832dbbc5971bdc4c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /home/nitheesh/.android/build-cache/0763abaad490f24f628ced61d6228eee12c9ff86/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/nitheesh/.android/build-cache/c085f80c2e64beaff28d6f5847fb4697922598ed/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/nitheesh/.android/build-cache/0eb3157235770040ea4349eefc00ccb94efdafb3/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/AndroidManifest.xml:20:19-85

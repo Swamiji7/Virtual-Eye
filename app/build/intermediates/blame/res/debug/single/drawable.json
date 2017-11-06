@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/nitheesh/.android/build-cache/ac0fcd432a22d5138add8617497a67cd7111205d/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/nitheesh/.android/build-cache/e7a7f093bee18c43f887fa1c8abbb0106addd0e2/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/nitheesh/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/nitheesh/.android/build-cache/41d5c761061eb9e369a7a13c656a8f753512ed58/output/res/drawable/abc_btn_check_material.xml"
+    }
+]
